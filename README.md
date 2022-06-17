@@ -4,4 +4,4 @@
 
 Шагалкина Д. Извлечение сущностей (результат — таблица с сущностями сообщений). [Код](https://github.com/aefrt/ner-disclosure/blob/main/final_BA_project.ipynb). [Результат](https://github.com/aefrt/ner-disclosure/blob/main/final_showcase.csv).
 
-Чубарова Д. [Интерпретация результатов (результат — графики)](https://github.com/aefrt/ner-disclosure/blob/main/SAS.ipynb).
+Чубарова Д. [Интерпретация результатов](https://github.com/aefrt/ner-disclosure/blob/main/SAS.ipynb).
