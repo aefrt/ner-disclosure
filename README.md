@@ -1,7 +1,7 @@
 # Извлечение сущностей из информации о раскрытии
 
-Копчев В. [Сбор данных](https://github.com/aefrt/ner-disclosure/blob/main/scraping.ipynb)
+Копчев В. Сбор данных. [Код](https://github.com/aefrt/ner-disclosure/blob/main/scraping.ipynb). [Результат](./)
 
-Шагалкина Д. [Извлечение сущностей](https://github.com/aefrt/ner-disclosure/blob/main/final_BA_project.ipynb)
+Шагалкина Д. Извлечение сущностей. [Код](https://github.com/aefrt/ner-disclosure/blob/main/final_BA_project.ipynb). [Результат](./)
 
 Чубарова Д. [Интерпретация результатов](./)
