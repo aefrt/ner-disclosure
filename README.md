@@ -1,4 +1,4 @@
-# Извлечение сущностей из информации о раскрытии
+# Автоматизация работы с документами: извлечение сущностей и фактов из сообщений о раскрытии
 
 Копчев В. Сбор данных. [Код](https://github.com/aefrt/ner-disclosure/blob/main/scraping.ipynb). [Результат](https://github.com/aefrt/ner-disclosure/blob/main/data.csv).
 
