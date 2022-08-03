@@ -1,5 +1,13 @@
 # Автоматизация работы с документами: извлечение сущностей и фактов из сообщений о раскрытии
 
+## О проекте
+
+В рамках проекта были собраны сообщения текстов решений общих собраний акционеров, написаны правила с помощью yargy-парсера и регулярных выражений, проанализированы получившиеся результаты. 
+
+[Презентация](https://github.com/aefrt/ner-disclosure/blob/main/преза.pdf)
+
+## Задачи
+
 Копчев В. Сбор данных (результат — таблица с признаками сообщений). [Код](https://github.com/aefrt/ner-disclosure/blob/main/scraping.ipynb). [Результат](https://github.com/aefrt/ner-disclosure/blob/main/data.csv).
 
 Шагалкина Д. Извлечение сущностей (результат — таблица с сущностями сообщений). [Код](https://github.com/aefrt/ner-disclosure/blob/main/final_BA_project.ipynb). [Результат](https://github.com/aefrt/ner-disclosure/blob/main/final_showcase.csv).
